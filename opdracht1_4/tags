@@ -1,0 +1,2 @@
+rectangle	C:\Users\nickt\Ti_block_D\v1oopc-examples\opdracht1_5\rectangle.cpp	/^rectangle::rectangle( hwlib::window & w, int start_x, int start_y, int end_x, int end_y ):$/;"	function	line:6	class:rectangle	signature:( hwlib::window & w, int start_x, int start_y, int end_x, int end_y )	returns:rectangle :: 
+print	C:\Users\nickt\Ti_block_D\v1oopc-examples\opdracht1_5\rectangle.cpp	/^void rectangle::print(){$/;"	function	line:14	class:rectangle	signature:()	returns:void rectangle :: 
